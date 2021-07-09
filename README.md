@@ -22,5 +22,5 @@ Tools: python, Scikit-learn, Machine Learning, pickle
 This project aimed to deploy a model that determined whether an applicant was qualified for a loan. Most of the project consist of data cleaning and analysis. 
 
 ## Project 5- Neural Networks: Language translator 
-
-This project aims to create a model that can translate sentences between English and French 
+Tools: python, NLP, tensorflow
+This project aims to create a model that can translate sentences between English and Korean 
